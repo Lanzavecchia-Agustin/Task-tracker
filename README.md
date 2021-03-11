@@ -3,6 +3,8 @@
 
 -Add,delete or just check the tasks, you can also set a reminder!.
 
+## Link to the static version of the app: https://lanzavecchia-react-task-tracker.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
